@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://path.to/your/banner-image.png" alt="Banner Profil Rayhan Vito Gustiansyah" />
 </p>
