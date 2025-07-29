@@ -1,20 +1,3 @@
-Tentu, saya akan membuatkan README profil GitHub yang disesuaikan secara spesifik dengan informasi dari CV Anda. README ini akan menyoroti keahlian, pengalaman, dan pencapaian utama Anda untuk menarik perhatian perekrut dan kolaborator.
-
-### Langkah-langkah Penggunaan:
-
-1.  Buka profil GitHub Anda.
-2.  Buat repositori baru dengan nama yang **sama persis** dengan nama pengguna Anda (`rayhanvito`). Ini adalah repositori khusus yang README-nya akan muncul di profil Anda.
-3.  Buat file baru di dalam repositori tersebut dengan nama `README.md`.
-4.  Salin semua kode dari blok di bawah ini dan tempelkan ke dalam file `README.md` Anda.
-5.  Beberapa bagian seperti Banner dan Proyek Unggulan memerlukan URL gambar dari Anda. Unggah gambar tersebut ke GitHub atau layanan hosting gambar lainnya, lalu salin tautannya.
-6.  Simpan dan lihat profil GitHub Anda yang sudah diperbarui\!
-
------
-
-### Template README.md untuk Rayhan Vito Gustiansyah
-
-Salin semua yang ada di dalam blok kode di bawah ini.
-
 ```markdown
 <p align="center">
   <img src="https://path.to/your/banner-image.png" alt="Banner Profil Rayhan Vito Gustiansyah" />
