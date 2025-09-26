@@ -3,18 +3,24 @@
 </p>
 
 <h1 align="center">👋 Halo, saya Rayhan Vito Gustiansyah</h1>
-<h3 align="center">Seorang Fresh Graduate D4 Manajemen Informatika & Freelance Web Developer</h3>
+<h3 align="center">Fresh Graduate D4 Manajemen Informatika | Aspiring Project Manager</h3>
 
 ---
-### 👨‍💻 Tentang Saya
 
-[cite_start]Saya adalah seorang lulusan baru D4 Manajemen Informatika dari Universitas Negeri Surabaya (UNESA) dengan IPK 3.74[cite: 3, 7]. [cite_start]Saya memiliki semangat tinggi dalam pengembangan web dan telah berkecimpung sebagai **freelance web developer selama lebih dari 5 tahun**[cite: 3].
+### 👨‍💼 Tentang Saya
 
-- [cite_start]🔭 Selama berkarir, saya telah berhasil membangun **10+ website** untuk klien UMKM, mencakup sistem seperti POS, HRM, CRM, hingga landing page[cite: 4, 11, 14].
-- [cite_start]🛠️ Saya terbiasa menggunakan tumpukan teknologi seperti **PHP, Laravel, MySQL, dan REST API** untuk membangun aplikasi yang efisien dan skalabel[cite: 4, 14].
-- [cite_start]☁️ Saya berpengalaman dalam keseluruhan siklus pengembangan, mulai dari desain UX, alur kerja **Git**, **deployment** ke shared hosting (termasuk konfigurasi DNS & SSL), hingga **optimasi SEO** yang berhasil meningkatkan traffic klien sebesar 30-40%[cite: 5, 15, 16, 17, 47].
--  [cite_start]लीडरशिप Saya juga aktif berorganisasi, di mana saya pernah memimpin tim dengan **8+ anggota** [cite: 5, 32] [cite_start]dan mengoordinasikan program yang menjangkau ribuan peserta[cite: 5].
-- [cite_start]📫 Anda dapat menghubungi saya melalui email di **rayhanvito8@gmail.com**[cite: 2].
+Saya adalah lulusan baru D4 **Manajemen Informatika** dari Universitas Negeri Surabaya (UNESA) dengan IPK 3.74.  
+Berbekal pengalaman sebagai freelance web developer dan aktif di berbagai organisasi, saya kini berfokus mengembangkan karier sebagai **Project Manager** di bidang teknologi informasi.
+
+- 🔭 Berhasil mengelola **10+ proyek digitalisasi UMKM** (POS, HRM, CRM, website e-commerce & landing page) dengan tingkat keberhasilan on-time delivery >90%.
+- 🛠️ Terbiasa menyusun dokumen proyek (BRD, FSD, PRD), membuat workflow, dan memastikan kebutuhan bisnis terhubung jelas dengan tim teknis.
+- 📊 Menerapkan tools manajemen proyek seperti **Jira, Trello,**, serta mengadopsi metodologi **Agile/Scrum** untuk efisiensi dan kolaborasi lintas tim.
+- 👥 Memimpin tim dengan **8+ anggota**, serta terbiasa mengoordinasikan program organisasi yang menjangkau ribuan peserta.
+- ☁️ Memiliki pemahaman teknis dasar (Laravel, MySQL, REST API, Git, deployment) yang membantu menjembatani komunikasi antara stakeholder bisnis dan tim developer.
+- 🎯 Terbukti meningkatkan efisiensi operasional mitra UMKM hingga **30–40%** melalui implementasi solusi digital yang terstruktur.
+- 📫 Anda dapat menghubungi saya melalui email: **rayhanvito8@gmail.com**
+
+---
 
 ---
 # 💻 Tech Stack:
